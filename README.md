@@ -30,6 +30,6 @@ At the console type:
 
 
 * `git clone https://github.com/robschlub/sublime-settings`
-* `mv sublime-settings/.git "~/Library/Application Support/Sublime Text 3/Packages/User"`
-* `cd "~/Library/Application Support/Sublime Text 3/Packages/User"`
-* git pull
+* `mv sublime-settings/.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
+* `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
+* `git pull reset --hard`
