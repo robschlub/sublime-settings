@@ -7,6 +7,14 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
             "eslint": {
                 "@disable": false,
                 "args": [],

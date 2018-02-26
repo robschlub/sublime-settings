@@ -15,7 +15,7 @@ At the console type:
 
 At the console type:
 `npm install -g eslint`
-
+`npm install -g csslint`
 
 ## Update Sublime
 ### Install package manager
