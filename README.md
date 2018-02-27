@@ -25,11 +25,29 @@ Download and install Sublime Text 3 from https://www.sublimetext.com
 
 On sublime text resart, all packages listed in `Package Control.sublime-settings` will be installed automatically.
 
+>> More Information:
+>>
+>> Packages for Python:
+>> Anaconda: http://damnwidget.github.io/anaconda/
+>>
+>> Packages for JS:
+>> Babel: https://packagecontrol.io/packages/Babel
+>> JSFormat: 
+>> 
+>> Misc Packages:
+>> GitGutter: https://github.com/jisaacks/GitGutter
+>> Sidebar Enhancements: https://github.com/SideBarEnhancements-org/SideBarEnhancements
+>>
+>> Linting Packages:
+>> SublimeLinter: http://www.sublimelinter.com/en/latest/
+>> SublimeLinter-csslint: https://github.com/SublimeLinter/SublimeLinter-eslint
+>> SublimeLinter-eslint: https://github.com/SublimeLinter/SublimeLinter-eslint
+>> SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
+>> SublimeLinter-pyflakes
 
 ## Install Dependencies Globally for linting
 
 ### Python
-
 At the console type:
 `pip3 install -r python-requirements.txt`
 
@@ -43,9 +61,11 @@ Command line output of linter can be obtained by:
 >> More Information:
 >>
 >> Flake8: http://flake8.pycqa.org/en/latest/index.html
+>> 
+>> Flake8 ignoring errors: http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html
+
 
 ### Javascript 
-
 At the console type:
 * `npm install -g eslint`
 * `npm install -g eslint-plugin-import`
