@@ -1,11 +1,9 @@
 {
   "ignore": [
-    "order-alphabetical",
+  	"order-alphabetical"
   ],
   "warnings": [
-    "important"
-  ],
-  "errors": [
+    "important",
     "unique-headings",
     "adjoining-classes",
     "known-properties",
@@ -40,7 +38,9 @@
     "vendor-prefix",
     "zero-units",
     "import-ie-limit",
-    "text-indent",
     "selector-newline"
+  ],
+  "errors": [
+    "text-indent"
   ]
 }
