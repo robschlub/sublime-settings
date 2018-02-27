@@ -60,7 +60,9 @@ Command line output of linter can be obtained by:
 
 >> **More information:**
 >> SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
+
 >> Flake8: http://flake8.pycqa.org/en/latest/index.html
+
 >> Flake8 ignoring errors: http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html
 
 
