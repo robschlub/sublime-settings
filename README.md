@@ -44,7 +44,7 @@ At the console type:
 * `npm install -g eslint-config-airbnb-base`
 * `cd PROJECT_FOLDER`: 
   * `npm init`
-  * ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.eslintrc.json PROJECT_FOLDER/.eslintrc.json
+  * `ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.eslintrc.json PROJECT_FOLDER/.eslintrc.json`
 
 >> More information:
 >>
@@ -63,7 +63,7 @@ At the console type:
 `npm install -g csslint`
 * In project folder: 
 
-  * ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.csslintrc PROJECT_FOLDER/.csslintrc
+  * `ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.csslintrc PROJECT_FOLDER/.csslintrc`
   * Create symbolic links in every folder that has a css
 
 >> More information:
