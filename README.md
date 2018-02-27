@@ -46,6 +46,17 @@ At the console type:
   * `npm init`
   * ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.eslintrc.json PROJECT_FOLDER/.eslintrc.json
 
+>> More information:
+>>
+>> SublimeLinter ESLint: https://github.com/SublimeLinter/SublimeLinter-eslint
+>>
+>> ESLint Installation: https://eslint.org/docs/user-guide/getting-started
+>>
+>> ESLint Rules: https://eslint.org/docs/rules/ 
+>>
+>> ESLint Airbnb project: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+>>
+>> Airbnb javascript style guide: https://github.com/airbnb/javascript
 
 
 ### CSS
@@ -55,4 +66,11 @@ At the console type:
   * ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.csslintrc PROJECT_FOLDER/.csslintrc
   * Create symbolic links in every folder that has a css
 
+>> More information:
+>> 
+>> SublimeLinter CSSLint: https://github.com/SublimeLinter/SublimeLinter-eslint
+>>
+>> CSSLint: https://github.com/CSSLint/csslint
+>>
+>> CSSLint Rules: https://github.com/CSSLint/csslint/wiki/Rules
 
