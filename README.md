@@ -28,22 +28,26 @@ On sublime text resart, all packages listed in `Package Control.sublime-settings
 >> **More information:**
 >>
 >> Packages for Python:
->> Anaconda: http://damnwidget.github.io/anaconda/
+>> 
+  *  Anaconda: http://damnwidget.github.io/anaconda/
 >>
 >> Packages for JS:
->> Babel: https://packagecontrol.io/packages/Babel
->> JSFormat: 
+>> 
+  * Babel: https://packagecontrol.io/packages/Babel
+  * JSFormat: 
 >> 
 >> Misc Packages:
->> GitGutter: https://github.com/jisaacks/GitGutter
->> Sidebar Enhancements: https://github.com/SideBarEnhancements-org/SideBarEnhancements
+>> 
+  * GitGutter: https://github.com/jisaacks/GitGutter
+  * Sidebar Enhancements: https://github.com/SideBarEnhancements-org/SideBarEnhancements
 >>
 >> Linting Packages:
->> SublimeLinter: http://www.sublimelinter.com/en/latest/
->> SublimeLinter-csslint: https://github.com/SublimeLinter/SublimeLinter-eslint
->> SublimeLinter-eslint: https://github.com/SublimeLinter/SublimeLinter-eslint
->> SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
->> SublimeLinter-pyflakes
+>> 
+  * SublimeLinter: http://www.sublimelinter.com/en/latest/
+  * SublimeLinter-csslint: https://github.com/SublimeLinter/SublimeLinter-eslint
+  * SublimeLinter-eslint: https://github.com/SublimeLinter/SublimeLinter-eslint
+  * SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
+  * SublimeLinter-pyflakes
 
 ## Install Dependencies Globally for linting
 
@@ -59,13 +63,15 @@ Command line output of linter can be obtained by:
 >> Note: The rules in `ProjectFiles/.flake8` and `SublimeLinter.sublime-settings` need to be manually kept in sync
 
 >> **More information:**
->> SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
-   Flake8: http://flake8.pycqa.org/en/latest/index.html
-   Flake8 ignoring errors: http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html
+>>
+   * SublimeLinter-flake8: https://github.com/SublimeLinter/SublimeLinter-flake8
+   * Flake8: http://flake8.pycqa.org/en/latest/index.html
+   * Flake8 ignoring errors: http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html
 
 
 ### Javascript 
 At the console type:
+
 * `npm install -g eslint`
 * `npm install -g eslint-plugin-import`
 * `npm install -g eslint-config-airbnb-base`
@@ -77,11 +83,12 @@ Restart Sublime Text 3 and open a javascript file to confirm linting errors/warn
 Command line output of linter can be obtained by: `PROJECT_FOLDER/eslint FILE_TO_TEST`
 
 >> **More information:**
->> SublimeLinter ESLint: https://github.com/SublimeLinter/SublimeLinter-eslint
->> ESLint Installation: https://eslint.org/docs/user-guide/getting-started
->> ESLint Rules: https://eslint.org/docs/rules/ 
->> ESLint Airbnb project: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
->> Airbnb javascript style guide: https://github.com/airbnb/javascript
+>> 
+  * SublimeLinter ESLint: https://github.com/SublimeLinter/SublimeLinter-eslint
+  * ESLint Installation: https://eslint.org/docs/user-guide/getting-started
+  * ESLint Rules: https://eslint.org/docs/rules/ 
+  * ESLint Airbnb project: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+  * Airbnb javascript style guide: https://github.com/airbnb/javascript
 
 
 ### CSS
@@ -95,8 +102,9 @@ Restart Sublime Text 3 and open a css file to confirm linting errors/warnings ar
 Command line output of linter can be obtained by: `PROJECT_FOLDER/csslint FILE_TO_TEST`
 
 >> **More information:**
->> SublimeLinter CSSLint: https://github.com/SublimeLinter/SublimeLinter-eslint
->> CSSLint: https://github.com/CSSLint/csslint
->> CSSLint Rules: https://github.com/CSSLint/csslint/wiki/Rules
+>> 
+  * SublimeLinter CSSLint: https://github.com/SublimeLinter/SublimeLinter-eslint
+  * CSSLint: https://github.com/CSSLint/csslint
+  * CSSLint Rules: https://github.com/CSSLint/csslint/wiki/Rules
 
 
