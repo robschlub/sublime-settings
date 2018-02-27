@@ -11,10 +11,17 @@ At the console type:
 `pip install -r python-requirements.txt`
 
 
-### Javascript
+### Javascript 
 
 At the console type:
-`npm install -g eslint`
+* `npm install -g eslint`
+* `npm install -g eslint-plugin-import`
+* `npm install -g eslint-config-airbnb-base`
+* In project folder: 
+  * `npm init`
+
+
+### CSS
 `npm install -g csslint`
 
 ## Update Sublime
