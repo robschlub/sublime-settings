@@ -15,6 +15,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
+		"SublimeLinter-flow",
 		"SublimeLinter-pyflakes",
 		"SublimeLog"
 	]
