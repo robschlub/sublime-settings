@@ -77,6 +77,7 @@ At the console type:
 * `npm install -g eslint-config-airbnb-base`
 * `npm install -g flow-bin`
 * `npm install -g eslint-plugin-flowtype`
+* `npm install -g eslint-plugin-jest`
 * `cd PROJECT_FOLDER`: 
   * `npm init`
   * `ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.eslintrc.json PROJECT_FOLDER/.eslintrc.json`
