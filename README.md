@@ -79,6 +79,10 @@ At the console type:
 * `npm install -g eslint-plugin-flowtype`
 * `npm install -g eslint-plugin-jest`
 * `npm install -g eslint-plugin-react`
+* `npm install stylelint-config-standard`   ### Note here is not global
+* `npm install stylelint`
+# `npm install stylelint-scss`    ### Note here is not global
+* `npm install postcss`
 * `cd PROJECT_FOLDER`: 
   * `npm init`
   * `ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.eslintrc.json PROJECT_FOLDER/.eslintrc.json`
@@ -93,22 +97,4 @@ Command line output of linter can be obtained by: `PROJECT_FOLDER/eslint FILE_TO
   * ESLint Rules: https://eslint.org/docs/rules/ 
   * ESLint Airbnb project: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
   * Airbnb javascript style guide: https://github.com/airbnb/javascript
-
-
-### CSS
-`npm install -g csslint`
-* In project folder: 
-
-  * `ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/ProjectFiles/.csslintrc PROJECT_FOLDER/.csslintrc`
-  * Create symbolic links in every folder that has a css
-Restart Sublime Text 3 and open a css file to confirm linting errors/warnings are being displayed
-
-Command line output of linter can be obtained by: `PROJECT_FOLDER/csslint FILE_TO_TEST`
-
->> **More information:**
->> 
-  * SublimeLinter CSSLint: https://github.com/SublimeLinter/SublimeLinter-eslint
-  * CSSLint: https://github.com/CSSLint/csslint
-  * CSSLint Rules: https://github.com/CSSLint/csslint/wiki/Rules
-
 

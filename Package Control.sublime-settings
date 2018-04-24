@@ -13,7 +13,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
+		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-flow",

@@ -5,19 +5,16 @@
   "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
   "lint_mode": "background",
   "linters": {
-    "csslint": {
-        "disable": false,
-        "args": [],
-        "errors": "",
-        "excludes": [],
-        "ignore": "",
-        "warnings": ""
-    },
     "eslint": {
         "disable": false,
         "args": [],
         "excludes": [],
         "show-code": true,
+    },
+    "stylelint": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
     },
     "flake8": {
         "disable": false,
@@ -41,7 +38,8 @@
 
 "paths": {
     "linux": [],
-    "osx": [],
+    "osx": [
+    ],
     "windows": []
 },
 
