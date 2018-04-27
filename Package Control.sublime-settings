@@ -13,11 +13,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-flow",
 		"SublimeLinter-pyflakes",
+		"SublimeLinter-stylelint",
 		"SublimeLog"
 	]
 }
